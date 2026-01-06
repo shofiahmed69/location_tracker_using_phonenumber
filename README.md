@@ -49,7 +49,7 @@ key = 'YOUR_API_KEY_HERE'
 
 1. Open `location_tracker.py` and modify the phone number:
 ```python
-number = "+8801974330594"  # Replace with your target number
+number = "+8801973445094"  # Replace with your target number
 ```
 
 2. Run the script:
